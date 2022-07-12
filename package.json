@@ -1,0 +1,19 @@
+{
+  "name": "dibujador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dibujador.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fersoria001/dibujador.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fersoria001/dibujador/issues"
+  },
+  "homepage": "https://github.com/fersoria001/dibujador#readme"
+}
